@@ -8,7 +8,7 @@
 
 **AdminLTE** is a fully responsive administration template. Based on **[Bootstrap 5](https://getbootstrap.com/)** framework and also the JavaScript plugins.
 Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
-
+malik
 ## Looking for Premium Templates?
 
 AdminLTE.io just opened a new premium templates page. Hand picked to ensure the best quality and the most affordable
